@@ -1,0 +1,19 @@
+[Version]
+2
+[Author]
+Manuel
+[Mesh Cells]
+3,408,048
+[Mesh Type]
+Hexahedral
+[Last Problem Type]
+High Frequency
+[Last Solver Type]
+HF Time Domain
+[Last Solver Type Abb]
+t
+[Results]
+Time Domain: S-Parameter
+[Modeler Unique ID]
+5:antenna.cst?ac253bc8fadd337cd3504a22644608fe?21580:numberofparameters=16:port=1>mode=1>zre=0>zim=0::antena_v1_5.sat>9ff967a133c25148282e549317c520ce>240502?antena_v1_4.sat>483f704c88d561036330cd69d640ac31>267396?antena_v1_3.sat>9738fa109ee4a82f36bf7a19efb21c00>254265?antena_v1_2.sat>2b4e3b0839c657d76364c02ab93baaa0>257890?antena_v1_1.sat>37d9b489ced875162b650121b874ee1e>281249:ang_aleta?const_caja?const_conc?d_sonda?e_aleta?e_caja?gap_aletas?l_aleta?l_caja?l_ci?l_die?r_c_sonda?r_sonda?r_tornillo?tolerancia?w_aleta
+[Comment]

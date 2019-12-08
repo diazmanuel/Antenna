@@ -1,0 +1,5 @@
+power level -15dbm
+resolution 1601 puntos
+BW filter 10khz
+kit de calibracion:	85518A KITSIGHT OSM
+freq: 1Ghz - 18Ghz
