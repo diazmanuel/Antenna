@@ -41,8 +41,8 @@ solver_hf_td/InitialFreePhysicalInMB:int:2554
 solver_hf_td/MaxResidentSizeInMB:int:524
 solver_hf_td/MaxResidentSizeMiB:int:688
 solver_hf_td/MinFreePhysicalInMB:int:1931
-solver_pp/InitialFreePhysicalInMB:int:3334
-solver_pp/MaxResidentSizeInMB:int:28
+solver_pp/InitialFreePhysicalInMB:int:2992
+solver_pp/MaxResidentSizeInMB:int:41
 solver_pp/MaxResidentSizeMiB:int:61
-solver_pp/MinFreePhysicalInMB:int:3319
+solver_pp/MinFreePhysicalInMB:int:2978
 ---
